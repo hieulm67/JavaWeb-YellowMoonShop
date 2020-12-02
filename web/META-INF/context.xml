@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context path="/YellowMoonShop" allowCasualMultipartParsing="true">
+    <Resource name="DBCon" type="javax.sql.DataSource" auth="Container"
+		driverClassName="com.microsoft.sqlserver.jdbc.SQLServerDriver"
+		url="jdbc:sqlserver://localhost:1433;databaseName=YellowMoonCake;instanceName=SQLEXPRESS"
+		username="sa" password="123456"/>
+</Context>

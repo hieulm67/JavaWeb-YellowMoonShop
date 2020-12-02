@@ -1,0 +1,14 @@
+trackOrder
+addToCart
+checkOut
+loadCart
+trackOrder
+updateCartQuantity
+removeCakeFromCart
+logout
+viewCartPage
+trackOrderPage
+sendMoMoRequest
+processMoMoPayment
+sendPayPalRequest
+processPayPalPayment

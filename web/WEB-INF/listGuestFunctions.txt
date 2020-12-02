@@ -1,0 +1,10 @@
+login
+addToCart
+checkOut
+loadCart
+updateCartQuantity
+removeCakeFromCart
+loginGoogle
+viewCartPage
+loginPage
+invalidPage

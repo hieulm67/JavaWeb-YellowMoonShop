@@ -1,0 +1,8 @@
+createCake
+updateCake
+logout
+viewMember
+createCakePage
+updateCakePage
+loadUpdatePage
+viewMembersPage
