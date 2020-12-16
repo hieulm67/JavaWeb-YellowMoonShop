@@ -18,7 +18,7 @@
     <body>
 	<c:set var="currentUser" value="${sessionScope.CURRENT_USER}"/>
 	<c:set var="userRole" value="${currentUser.userRole}"/>
-	<nav class="navbar navbar-expand-lg bg-success">
+	<nav class="navbar navbar-expand-sm bg-success">
 	    <p class="navbar-brand text-white h1 ml-1">
 		Yellow Moon Cake Store
 	    </p>
